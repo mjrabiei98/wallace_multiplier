@@ -1,0 +1,142 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\mohammad javad\Desktop\uni\arshad tehran university\term 2\Computer Arithmatic\CA\CA4\code\q2
+vFullAdder
+Z1 !s100 nd:`PVWT0DBg87@TIgL;63
+Z2 ITNZ>hY`z=z@?>cY`Oh]<d3
+Z3 VcII[::[2R5ZmPZ9a@hG292
+Z4 dC:\Users\mohammad javad\Desktop\uni\arshad tehran university\term 2\Computer Arithmatic\CA\CA4\code\q1
+Z5 w1719838299
+Z6 8C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA4/code/q1/elements.v
+Z7 FC:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA4/code/q1/elements.v
+L0 29
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s108 1720167020.656000
+Z10 !s107 C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA4/code/q1/elements.v|
+Z11 !s90 -reportprogress|300|-work|work|C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA4/code/q1/elements.v|
+Z12 o-work work -O0
+Z13 n@full@adder
+!i10b 1
+!s85 0
+!s101 -O0
+vHalfAdder
+Z14 !s100 >zKKC5S]SGSRn;k?keSYI1
+Z15 IM]EbfldI5@O<<QMPUbHf61
+Z16 VWjVHFC?GgOIf0F57?>Ym60
+R4
+R5
+R6
+R7
+L0 43
+R8
+r1
+31
+R9
+R10
+R11
+R12
+Z17 n@half@adder
+!i10b 1
+!s85 0
+!s101 -O0
+vRippleCarryAdder
+Z18 !s100 @56`mYo;I?Jj4f[=3h12I0
+Z19 I=51VkKInjk5IXaFLW]WCB1
+Z20 Vi3emE4dl]`WkK0XN]D61l1
+R4
+R5
+R6
+R7
+L0 1
+R8
+r1
+31
+R9
+R10
+R11
+R12
+Z21 n@ripple@carry@adder
+!i10b 1
+!s85 0
+!s101 -O0
+vRippleCarryAdder_2
+!i10b 1
+Z22 !s100 h<DAFW8T9>e^PCCP6_>gS3
+Z23 I2VzTQL4Cd?d^BXi67[7dO3
+Z24 V^8NDC?B_o<kW:cKKm0l^:3
+R4
+Z25 w1719997474
+Z26 8C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA4/code/q1/wallace_16.v
+Z27 FC:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA4/code/q1/wallace_16.v
+L0 1
+R8
+r1
+!s85 0
+31
+Z28 !s108 1720167020.805000
+Z29 !s107 C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA4/code/q1/wallace_16.v|
+Z30 !s90 -reportprogress|300|-work|work|C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA4/code/q1/wallace_16.v|
+!s101 -O0
+R12
+Z31 n@ripple@carry@adder_2
+vtest
+Z32 I0i^Sj;S:7O3]lMIlAa4Kh3
+Z33 Vk<3<[f=78GX=_HO53D;7>3
+R4
+Z34 w1720167017
+Z35 8C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA4/code/q1/tb.v
+Z36 FC:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA4/code/q1/tb.v
+L0 1
+R8
+r1
+31
+Z37 !s90 -reportprogress|300|-work|work|C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA4/code/q1/tb.v|
+R12
+Z38 !s100 d5`IkJ[ePmhgKhaYLIcQ50
+Z39 !s108 1720167020.711000
+Z40 !s107 C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA4/code/q1/tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vwallace_16bit
+!i10b 1
+Z41 !s100 4^JCFghQMCk7UBDYHGJg71
+Z42 Im0<k46MTh3mG3JW0RN[Va1
+Z43 Vk]UgQzFTY<hm82TO@3Oai3
+R4
+R25
+R26
+R27
+L0 11
+R8
+r1
+!s85 0
+31
+R28
+R29
+R30
+!s101 -O0
+R12
+vwallace_8bit
+Z44 !s100 moi5TfIb]W3Ln8Xka0gN62
+Z45 I]?PHzlL41Qz[U_Yz4;<H>1
+Z46 V[T=GS6^ZTWmI>7K2[DMdP1
+R4
+Z47 w1720164176
+Z48 8C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA4/code/q1/wallace_8.v
+Z49 FC:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA4/code/q1/wallace_8.v
+L0 1
+R8
+r1
+31
+Z50 !s90 -reportprogress|300|-work|work|C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA4/code/q1/wallace_8.v|
+R12
+!i10b 1
+!s85 0
+Z51 !s108 1720167020.761000
+Z52 !s107 C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA4/code/q1/wallace_8.v|
+!s101 -O0

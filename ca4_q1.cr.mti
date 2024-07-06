@@ -1,0 +1,26 @@
+{C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA4/code/q1/wallace_16.v} {1 {vlog -work work {C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA4/code/q1/wallace_16.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RippleCarryAdder_2
+-- Compiling module wallace_16bit
+
+Top level modules:
+	wallace_16bit
+
+} {} {}} {C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA4/code/q1/wallace_8.v} {1 {vlog -work work {C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA4/code/q1/wallace_8.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module wallace_8bit
+
+Top level modules:
+	wallace_8bit
+
+} {} {}} {C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA4/code/q1/elements.v} {1 {vlog -work work {C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA4/code/q1/elements.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RippleCarryAdder
+-- Compiling module FullAdder
+-- Compiling module HalfAdder
+
+Top level modules:
+	RippleCarryAdder
+	HalfAdder
+
+} {} {}}
